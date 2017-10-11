@@ -5,11 +5,15 @@ Create a console application (numberworder.exe) that expects a single numeric pa
 
 eg. 
 
-`> numberworder.exe 1234`
+```
+> numberworder.exe 1234
+```
 
 results in:
 
-`ONETWOTHREEFOUR`
+```
+ONETWOTHREEFOUR
+```
 
 Additional considerations
 -------------------------
